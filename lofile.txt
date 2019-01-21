@@ -1,0 +1,11 @@
+commit b8f521ebc9cd7598f67a560fadb1723606378a06
+Author: Sean Passmore <jeanghandi@gmail.com>
+Date:   Mon Jan 21 00:28:55 2019 +0000
+
+    Completed book tasks
+
+commit d914a0f509b98967638b45211cdc0430f937a40f
+Author: Sean Passmore <jeanghandi@gmail.com>
+Date:   Sun Jan 20 23:40:44 2019 +0000
+
+    Just created first rails project
