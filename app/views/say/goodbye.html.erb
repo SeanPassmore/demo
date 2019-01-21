@@ -1,4 +1,15 @@
-<h1>Say#goodbye</h1>
-<p>
-Say <%= link_to "Hello", say_hello_path %> again.
-</p>
+<div class="container">
+    <div class="card">
+      <div class="card-header">
+        It is now <%=@time%>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">It was nice having you here.</h5>
+
+         <p>
+                Say 
+                <%=link_to "Hello", say_hello_path %> again.
+         </p>
+      </div>
+    </div>
+</div>
