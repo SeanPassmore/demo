@@ -1,0 +1,41 @@
+commit 6632f7213dcfb4f33c80d186f22e4792010e5f42
+Author: Sean Passmore <jeanghandi@gmail.com>
+Date:   Mon Jan 21 17:33:03 2019 +0000
+
+    Almost done with task 5 but having issues. Saving for later possible branch
+
+commit b0b1098501b1680ab778e80d985c07bcb18373fd
+Author: Sean Passmore <jeanghandi@gmail.com>
+Date:   Mon Jan 21 16:53:37 2019 +0000
+
+    completed task 4 with react implementation
+
+commit 46cb88578d717e696cbe8b057b399f4bbd22113a
+Author: Sean Passmore <jeanghandi@gmail.com>
+Date:   Mon Jan 21 02:54:10 2019 +0000
+
+    Completed task 3 with the new div tags
+
+commit 1b56c4d184679e2cc28a47df973ad7535fb023e1
+Author: Sean Passmore <jeanghandi@gmail.com>
+Date:   Mon Jan 21 02:34:40 2019 +0000
+
+    Completed task 2 with bootstrap
+
+commit 712c25e3ef59e33dfc159875bf7346f1790c78d4
+Author: Sean Passmore <jeanghandi@gmail.com>
+Date:   Mon Jan 21 02:28:50 2019 +0000
+
+    Completed task 1
+
+commit b8f521ebc9cd7598f67a560fadb1723606378a06
+Author: Sean Passmore <jeanghandi@gmail.com>
+Date:   Mon Jan 21 00:28:55 2019 +0000
+
+    Completed book tasks
+
+commit d914a0f509b98967638b45211cdc0430f937a40f
+Author: Sean Passmore <jeanghandi@gmail.com>
+Date:   Sun Jan 20 23:40:44 2019 +0000
+
+    Just created first rails project
